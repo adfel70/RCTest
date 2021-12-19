@@ -9,3 +9,5 @@ solr = pysolr.Solr('http://localhost:8983/solr/tstCollection/update?commit=true'
 
 for record in post_as_json:
     solr.add(record)
+
+print("finished successfully")
