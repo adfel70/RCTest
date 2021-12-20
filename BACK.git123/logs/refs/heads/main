@@ -1,6 +1,0 @@
-0000000000000000000000000000000000000000 8cbb3e01898a1960454e3aec31507214ca4000e6 Adam <adfel70@gmail.com> 1638701035 +0200	commit (initial): hello
-8cbb3e01898a1960454e3aec31507214ca4000e6 b98923dc492e33c6fb1db76923a7b09cd81f3f48 Adam <adfel70@gmail.com> 1638796627 +0200	commit: read news
-b98923dc492e33c6fb1db76923a7b09cd81f3f48 cce474da1562d2db5ed38f97f568c01a517b04dd Adam <adfel70@gmail.com> 1639569367 +0200	commit: test
-cce474da1562d2db5ed38f97f568c01a517b04dd cce474da1562d2db5ed38f97f568c01a517b04dd Adam <adfel70@gmail.com> 1639900873 +0200	Branch: renamed refs/heads/master to refs/heads/main
-cce474da1562d2db5ed38f97f568c01a517b04dd fe8813988af996275b95b71c50a424279eb07aba Adam <adfel70@gmail.com> 1639903796 +0200	commit: first commit
-fe8813988af996275b95b71c50a424279eb07aba fe8813988af996275b95b71c50a424279eb07aba Adam <adfel70@gmail.com> 1639903797 +0200	Branch: renamed refs/heads/main to refs/heads/main

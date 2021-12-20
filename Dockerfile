@@ -11,7 +11,7 @@
 #--------------------------------
 FROM python:3.7-alpine
 
-RUN git clone .....
+RUN git clone https://github.com/adfel70/RCTest.git
 
 WORKDIR /code
 COPY requirements.txt requirements.txt
